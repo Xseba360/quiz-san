@@ -1,4 +1,4 @@
-﻿git add *using System;
+﻿using System;
 
 namespace quiz_san
 {
